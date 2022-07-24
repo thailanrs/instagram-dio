@@ -1,0 +1,51 @@
+body {
+    background: #fefefe;
+}
+
+.flex-content {
+    display: flex;
+    justify-content: center;
+}
+
+.celular img{
+    height: 780px;
+    width: 840px;
+}
+
+.login {
+    align-self: center;
+    border: 1px solid gray;
+    padding: 40px;
+    text-align: center;
+}
+
+.foto-perfil {
+    border-radius: 100%;
+    margin: 30px 0;
+}
+
+.btn-continuar {
+    background: #0095F6;
+    color: #fff;
+    padding: 5px 30px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+}
+
+.login strong {
+    color: #5798F6;
+}
+
+.rodape {
+    margin-top: 300px;
+    color: gray;
+}
+
+.rodape select{
+    color: gray;
+    border: none;
+}
+
+.rodape p {
+    margin-left: 50px;
+}
